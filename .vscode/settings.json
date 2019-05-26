@@ -6,7 +6,7 @@
   "editor.wordWrap": "off",
   "editor.fontFamily": "'Operator Mono', Consolas, 'Courier New', monospace",
   "editor.fontSize": 17,
-  "editor.tabSize": 2
+  "editor.tabSize": 2,
   "typescript.format.placeOpenBraceOnNewLineForFunctions": true,
   "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
   "typescript.format.insertSpaceAfterConstructor": true,
